@@ -19,7 +19,7 @@ To clone this repository locally, run the following command from your terminal:
 git clone https://github.com/new2code/code-scanning-demo.git
 ```
 
-### Running the programs
+### Running the program
 
 1. To open the repository's directory, run the following command from your terminal:
 
